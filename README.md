@@ -2,9 +2,9 @@
 # Домашнее задание к лекции «Asyncio»
 
 ## Комады для запуска
-- docker-compose up -d
-- python models.py
-- python async_request.py
+- docker-compose up -d <br>
+- python models.py <br>
+- python async_request.py <br>
 
 
 В этом задании мы будем выгружать из API персонажей Start Wars и загружать в базу данных.<br>
@@ -62,3 +62,5 @@
 Результатом работы будет: <br>
 1) скрипт миграции базы данных <br>
 2) скрипт загрузки данных из API в базу <br>
+
+В базу должны быть загружены все персонажи
